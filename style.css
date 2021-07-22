@@ -33,10 +33,10 @@ h1{
     color: aliceblue;
 }
 #head{
-    font-size: 30px;
-    font-family:fantasy;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
     line-height: 40px;
-    color: #31415a;
+    color: #480032;
     text-align:center;
 }
 #para{
