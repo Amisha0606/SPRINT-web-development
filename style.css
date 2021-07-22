@@ -5,6 +5,9 @@
 body{
     background-color: #999999
 }
+
+h1{
+	text-align:center;
 ul{
     list-style: none;
 }
@@ -35,10 +38,12 @@ ul{
     font-family:fantasy;
     line-height: 40px;
     color: #31415a;
+    text-align:center;
 }
 #para{
     font-size: 20px;
     font-family: sans-serif;
+    text-align: center;
 }
 #heading{
     background-color:#333333;
@@ -77,12 +82,16 @@ ul{
 }
 #social{
     text-decoration: none;
+    text-align:center;
 }
 #q{
     font-size: 50px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #31415a;
 }
+
+#fab{
+	text-align:center;
 .vir{
     font-size: 20px;
     font-family: sans-serif;
